@@ -1,0 +1,62 @@
+.top-container{
+  background-color: black;
+
+
+}
+
+.pp1{
+  height: 250px;
+  float: left;
+  margin: 180px 50px auto 200px;
+
+}
+
+.pp{
+  color: white;
+}
+
+body{
+  background-color: black;
+}
+
+.para{
+  position: relative;
+  top: 200px;
+}
+
+h1{
+  position: relative;
+  top: 170px;
+}
+
+
+.icon-1{
+  height: 30px;
+  position: absolute;
+  right: 80px;
+}
+
+.gm-1{
+  height: 30px;
+  position: absolute;
+  right: 44px;
+}
+
+.fb-1{
+  height: 30px;
+  position: absolute;
+  right: 5px;
+}
+
+.sr-1{
+  height: 40px;
+  position: absolute;
+  left: 180px;
+  top: 40px;
+}
+
+.iii{
+  height: 100px;
+  position: absolute;
+  left: 20px;
+}
